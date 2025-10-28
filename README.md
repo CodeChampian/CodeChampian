@@ -13,7 +13,7 @@
 - Statistical Modeling & Machine Learning
 
 **Programming & Tools**
-- `Python` `R` `SQL` `DAX` `Node.js`
+- `Python` `R` `SQL`
 - `Docker` `Git` `Power BI` `Pandas` `Scikit-learn`
 - `AWS` `LangChain` `Transformers`
 
